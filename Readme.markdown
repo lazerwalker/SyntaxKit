@@ -9,7 +9,9 @@ SyntaxKit was abstracted from [Whiskey](http://usewhiskey.com).
 
 ## Building
 
-SyntaxKit is written in Swift 2 so Xcode 7 is required. There aren't any dependencies besides system frameworks.
+SyntaxKit is written in Swift 2 so Xcode 7 is required. 
+
+You can install the needed dependencies with [Carthage](https://github.com/carthage/carthage): `carthage build`
 
 
 ## Installation
